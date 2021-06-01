@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VladimirMirMir
-- 👀 I’m interested in Dungeins and Dragons
+- 👀 I’m interested in Dungeons and Dragons
 - 🌱 I’m currently learning design patterns
 - 📫 How to reach me -> e-mail me: miroschnikovvladimir@yandex.ru
 
