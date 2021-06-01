@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VladimirMirMir
 - 👀 I’m interested in Dungeons and Dragons
-- 🌱 I’m currently learning design patterns
+- 🌱 I’m currently learning Unity Shaders
 - 📫 How to reach me -> e-mail me: miroschnikovvladimir@yandex.ru
 
 <!---
